@@ -9,7 +9,7 @@ Fonts are separated by a & */
   --primary-color: #9FB4C7   ;
   --secondary-color: #495F41 ;
   --accent1-color: #1F487E;
-  --accent2-color: #7A542E;
+  --accent2-color: #32210f;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Gergia";
@@ -19,7 +19,7 @@ Fonts are separated by a & */
   --headline-color-on-white: #396E94;  /* headlines on a white background */ 
   --headline-color-on-color: #1F487E; /* headlines on a colored background */ 
   --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: #7A542E; /* paragraph text on a colored background */ 
+  --paragraph-color-on-color: #32210f; /* paragraph text on a colored background */ 
   --paragraph-background-color: #9FB4C7  ;
   --nav-link-color: white;
   --nav-background-color: #495F41;
