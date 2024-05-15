@@ -1,0 +1,32 @@
+body {
+    background-color: #5ca1d7;
+}
+.top {
+    color: white;
+    text-align: center;
+}
+.top h1:hover {
+    color: black;
+}
+.list {
+    width: 30%;
+    margin: 0 auto;
+}
+#heroimage {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
+blockquote {
+    color: white;
+    font-size: 1.8em;
+    max-width: 300px;
+    text-align: center;
+    margin: 0 auto;
+}
+figcaption {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
