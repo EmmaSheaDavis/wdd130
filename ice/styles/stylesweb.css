@@ -1,0 +1,33 @@
+body {
+    background-color: #707070;
+    margin: 0 0;
+}
+#titleimg {
+    display: block;
+    width: 100%;
+}
+.images {
+    margin: 80px 80px;
+}
+
+#desk {
+    display: inline;
+    width: 250px;
+    border: 20px solid #3e3e3e;
+    border-radius: 200px;
+    margin: auto 50px;
+}
+#graphic {
+    display: inline;
+    width: 250px;
+    border: 20px solid #3e3e3e;
+    border-radius: 200px;
+    margin: auto 30px;
+}
+#person {
+    display: inline;
+    width: 250px;
+    border: 20px solid #3e3e3e;
+    border-radius: 200px;
+    margin: auto 50px;
+}
