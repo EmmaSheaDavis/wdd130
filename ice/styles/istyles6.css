@@ -1,0 +1,30 @@
+.cherries_text {
+    background-color: #a8a8a8;
+    color: rgb(138, 2, 2);
+    font-size: 150px;
+    grid-column: 2/2;
+    grid-row: 1/2;
+    margin: 0 0;
+    text-align: center;
+    padding-top: 500px;
+    padding-bottom: 200px;
+    width: 700px;
+}
+.title {
+    font-size: 200px;
+    grid-column: 1/3;
+    grid-row: 1/2;
+    text-align: center;
+    z-index: 1;
+}
+.grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 0 0;
+}
+.cherries_img {
+    grid-column: 1/1;
+    grid-row: 1/2;
+    padding: 0px;
+    margin: 0 0;
+}
