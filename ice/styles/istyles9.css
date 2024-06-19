@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+.card{
+    width: 250px;
+    margin: 0 auto;
+    background-color: white;
+}
+.headerimage{
+    width: 100%;
+}
+.awesomearticle{
+    padding: 10%;
+    text-align: center;
+    margin: 0 0;
+}
+.header{
+    text-align: center;
+    margin: 0 0;
+}
+.smallheader{
+    text-align: center;
+    color: rgb(5, 84, 126);
+    font-size: 15px;
+    padding-top: 20px;
+}
+.footer{
+    background-color: rgb(12, 87, 149);
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr, 1fr, 1fr, 1fr;
+    margin: 0 0;
+}
+.read{
+    grid-column: 1/2;
+    text-align: center;
+}
+.views{
+    grid-column: 2/3;
+    text-align: center;
+    padding-top: 15px;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+}
+.comments{
+    grid-column: 3/4;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 4px;
+}
