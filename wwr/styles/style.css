@@ -221,10 +221,13 @@ main section img {
     text-align: left;
     padding-top: 30px;
     color: #32210f;
+    padding-left: 20px;
 }
 .answer {
     font-size: 25px;
     color: #32210f;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 @media screen and (max-width: 900px) {
