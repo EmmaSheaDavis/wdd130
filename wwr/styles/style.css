@@ -20,7 +20,7 @@ main section {
 }
 #background {
     height: 725px;
-    background-color: #9FB4C7;
+    background-color: #9FB4C7; 
     grid-column: 1/11;
     grid-row: 4/9;
 }
